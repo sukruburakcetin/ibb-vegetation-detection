@@ -1,1 +1,1 @@
-# road-detection
+#ibb-vegetation-detection
